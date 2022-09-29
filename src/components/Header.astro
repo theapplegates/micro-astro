@@ -4,9 +4,22 @@ import { SITE_TITLE } from '../config';
 ---
 
 <header>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+<script type="text/javascript">
+  algoliasearchNetlify({
+	appId: '9067M5BYGC',
+	apiKey: 'd23c525265f3332f715945d1714a9a3a',
+	siteId: 'c1fdb1cc-3969-42b4-8b93-778797189a2d',
+	branch: 'main',
+	selector: 'div#search',
+  });
+</script>
+
 	<h2>
 		{SITE_TITLE}
 	</h2>
+	<div id="search"></div>
 	<nav>
 		<HeaderLink href="/">Home</HeaderLink>
 		<HeaderLink href="/blog">Blog</HeaderLink>
