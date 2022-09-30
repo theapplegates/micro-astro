@@ -5,6 +5,21 @@ description: "Lorem ipsum dolor sit amet"
 pubDate: "Jul 15 2022"
 heroImage: "/placeholder-hero.jpg"
 ---
+Hurricane Ian could hit South Carolina around high tide Friday, worsening the flood danger, forecasts say
+From CNN's Taylor Ward
+Hurricane Ian is intensifying as it moves toward the coast of South Carolina and, according to NOAA Tides and Currents, it could hit the state around high tide on Friday.
+
+In Charleston, a city that is especially vulnerable to coastal flooding, the high tide is at 11:41 a.m. ET. In Myrtle Beach, high tide is at 11:18 a.m. ET.
+
+Hurricane Ian is expected to move onshore near or just after these high tide times, according to forecasts.
+
+Why this is important: Tidal ranges along the Eastern Seaboard are much larger than they are in the Gulf of Mexico. Ian initially made landfall in Cuba before hitting the southwestern coast of Florida on Wednesday.
+
+In Charleston and Myrtle Beach, the difference in water levels from high to low tide is around 6 feet. This could be critical because a storm surge of 4-7 feet on top of high tide will exacerbate the flooding in low-lying areas.
+
+Read more about the danger of storm surge:
+
+![Pic](/src/assets/images/cheese.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
