@@ -5,6 +5,9 @@ description: "Lorem ipsum dolor sit amet"
 pubDate: "Jul 15 2022"
 heroImage: "/placeholder-hero.jpg"
 ---
+import { Picture } from '@astrojs/image/components';
+
+
 Hurricane Ian could hit South Carolina around high tide Friday, worsening the flood danger, forecasts say
 From CNN's Taylor Ward
 Hurricane Ian is intensifying as it moves toward the coast of South Carolina and, according to NOAA Tides and Currents, it could hit the state around high tide on Friday.
@@ -19,7 +22,10 @@ In Charleston and Myrtle Beach, the difference in water levels from high to low 
 
 Read more about the danger of storm surge:
 
-![Pic](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/cheese.jpg)
+
+<Picture src={import('/src/assets/images/cheese.jpg')} widths={[100, 200, 400, 800, 1600]} sizes="(max-width: 1600px) 100vw, 1600px" alt="descriptive text" aspectRatio="16:9" />
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
